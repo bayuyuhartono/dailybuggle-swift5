@@ -1,24 +1,72 @@
 //
 //  ContentView.swift
-//  dailybuggle
+//  movieportal
 //
-//  Created by Bayu Yuhartono on 26/02/25.
+//  Created by Bayu P Yuhartono on 06/08/24.
 //
 
 import SwiftUI
 
-struct ContentView: View {
+struct MainView: View {
+    @State var selectedTab = 0
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        ZStack(alignment: .bottom){
+            TabView(selection: $selectedTab) {
+                HomeView()
+                    .tag(0)
+                    .toolbar(.hidden, for: .tabBar)
+                HomeView()
+                    .tag(0)
+                    .toolbar(.hidden, for: .tabBar)
+                HomeView()
+                    .tag(0)
+                    .toolbar(.hidden, for: .tabBar)
+            }
+
+            ZStack{
+                HStack{
+                    ForEach((TabbedItems.allCases), id: \.self){ item in
+                        Button{
+                            selectedTab = item.rawValue
+                        } label: {
+                            CustomTabItem(imageName: item.iconName, title: item.title, isActive: (selectedTab == item.rawValue))
+                        }
+                    }
+                }
+                .padding(8)
+            }
+            .frame(height: 60)
+            .cornerRadius(40)
+            .padding(.horizontal, 32)
         }
-        .padding()
+        .padding(.bottom, 16)
+        .ignoresSafeArea()
+    }
+}
+
+extension MainView{
+    func CustomTabItem(imageName: String, title: String, isActive: Bool) -> some View{
+        HStack(spacing: 10){
+            Spacer()
+            Image(systemName: imageName)
+                .resizable()
+                .renderingMode(.template)
+                .foregroundColor(isActive ? .uiSmoke : .uiGrey)
+                .frame(width: 20, height: 20)
+            if isActive{
+                Text(title)
+                    .font(.system(size: 14))
+                    .foregroundColor(isActive ? .white : .uiGrey)
+            }
+            Spacer()
+        }
+        .frame(width: isActive ? 170 : 60, height: 50)
+        .background(isActive ? .uiGreen : .clear)
+        .cornerRadius(40)
     }
 }
 
 #Preview {
-    ContentView()
+    MainView()
 }
