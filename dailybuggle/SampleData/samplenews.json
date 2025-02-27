@@ -1,0 +1,250 @@
+{
+    "search_metadata": {
+        "id": "67c00b38e7aee8ecd65c38e6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/549b6c76359935a8/67c00b38e7aee8ecd65c38e6.json",
+        "created_at": "2025-02-27 06:50:32 UTC",
+        "processed_at": "2025-02-27 06:50:32 UTC",
+        "google_news_url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en&gl=US",
+        "raw_html_file": "https://serpapi.com/searches/549b6c76359935a8/67c00b38e7aee8ecd65c38e6.html",
+        "total_time_taken": 5.31
+    },
+    "search_parameters": {
+        "engine": "google_news",
+        "gl": "us",
+        "hl": "en",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    "title": "Technology",
+    "news_results": [
+        {
+            "position": 1,
+            "highlight": {
+                "title": "Amazon’s AI-powered Alexa Plus to cost non-Prime users $20 a month",
+                "source": {
+                    "name": "The Washington Post",
+                    "icon": "https://lh3.googleusercontent.com/o6yPxQMQu9ofTcfOYO51BWEv7jK44QjB14DqTK_cl1N3LsWVEF3GUHd1byHOQ3n8L6ySZluEhZQ",
+                    "authors": [
+                        "Caroline O'donovan"
+                    ]
+                },
+                "link": "https://www.washingtonpost.com/technology/2025/02/26/alexa-ai-amazon/",
+                "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZILIMVUCBU55KMPPRQKTMSK2Y.JPG&w=1200",
+                "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdWbU5UUVZZeVRYSXlaRVYyVFJERUF4aW1CU2dLTWdhZE1aeEpsZ28",
+                "date": "02/27/2025, 02:29 AM, +0000 UTC"
+            },
+            "stories": [
+                {
+                    "position": 1,
+                    "title": "Introducing Alexa+, the next generation of Alexa",
+                    "source": {
+                        "name": "About Amazon",
+                        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aboutamazon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                        "authors": [
+                            "Panos Panay"
+                        ]
+                    },
+                    "link": "https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence",
+                    "thumbnail": "https://assets.aboutamazon.com/99/97/449a770b40e9b852c1e558dba0f5/alexa-logo-1600x900-1.jpg",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZia1JNTmpKb04wMTFNV1ZFVFJDb0FSaXNBaWdCTWdZcHBaS050UVk",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
+                    "date": "02/26/2025, 04:49 PM, +0000 UTC"
+                },
+                {
+                    "position": 2,
+                    "title": "Alexa Plus Will Roll Out To These Four Amazon Echo Devices First",
+                    "source": {
+                        "name": "Forbes",
+                        "icon": "https://lh3.googleusercontent.com/NIjzR9QHtZJllEvJIVkODXFQ7_rbx1BMBXx2rNUbttjuu9YWLIp2_juQaI9jJ2rDtzi6snbZ",
+                        "authors": [
+                            "Prakhar Khanna"
+                        ]
+                    },
+                    "link": "https://www.forbes.com/sites/prakharkhanna/2025/02/26/alexa-plus-will-roll-out-to-these-four-amazon-echo-devices-first/",
+                    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/67bf8ed116802fd2c1a5f1d8/Amazon-Alexa-Plus-announcement-stage-/960x0.jpg?format=jpg&width=960",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtaVnAyTUVkaWNVUkVRbmczVFJDZkF4ampCU2dLTWdrbElJWXVHZWx6RkFF",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
+                    "date": "02/26/2025, 10:04 PM, +0000 UTC"
+                },
+                {
+                    "position": 3,
+                    "title": "Meet Alexa Plus: Your Virtual Assistant Just Got an AI Update",
+                    "source": {
+                        "name": "CNET",
+                        "icon": "https://lh3.googleusercontent.com/pnQtIpgtVqvRT94UjYLY1CmOffa5B0j04FK18Kr6MhRx05UsTs913O_c4FDbQy0Vw0l1BjyrBdA",
+                        "authors": [
+                            "Corin Cesaric"
+                        ]
+                    },
+                    "link": "https://www.cnet.com/home/meet-alexa-plus-your-virtual-assistant-just-got-an-ai-update/",
+                    "thumbnail": "https://www.cnet.com/a/img/resize/8031f3cc503d0de608128724534e72fd0f0a2304/hub/2025/02/26/fc4a6f77-c175-42ee-8125-f1f2e53c88b0/screenshot-2025-02-26-at-2-37-17pm.png?auto=webp&fit=crop&height=675&width=1200",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhUalpxVEhkSE16aFBNa2h4VFJDZkF4ampCU2dLTWdZZGNKYXRxQWM",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
+                    "date": "02/26/2025, 04:26 PM, +0000 UTC"
+                }
+            ],
+            "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ"
+        },
+        {
+            "position": 2,
+            "highlight": {
+                "title": "iPhone 16e's Battery Capacity Revealed in Real-World Battery Life Test",
+                "source": {
+                    "name": "MacRumors",
+                    "icon": "https://lh3.googleusercontent.com/3SBMAEqsqmKgiDfi4ZLKs_-e-bKbdb5T-EPgbxAFN1kr6_qPClz_Nd2RP3ja9ZqITXLDV58QzQ",
+                    "authors": [
+                        "Joe Rossignol"
+                    ]
+                },
+                "link": "https://www.macrumors.com/2025/02/26/iphone-16e-battery-capacity/",
+                "thumbnail": "https://images.macrumors.com/t/y5kt36RkjUlJ0X8r8nsJjIj7ngk=/400x0/article-new/2025/02/iPhone-16e-Battery.jpg?lossy",
+                "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXhiMlJ1ZDJsdVNuVklRbVJmVFJEaEFSaVFBeWdLTWdB",
+                "date": "02/27/2025, 03:12 AM, +0000 UTC"
+            },
+            "stories": [
+                {
+                    "position": 1,
+                    "title": "iPhone 16e",
+                    "source": {
+                        "name": "Apple Newsroom",
+                        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                    },
+                    "link": "https://www.apple.com/iphone-16e/",
+                    "thumbnail": "https://www.apple.com/v/iphone-16e/a/images/meta/iphone-16e_overview__ge2mx72sr9aq_og.png?202502201939",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXdRMnhLWW0xVGNUUllSbkJ1VFJDakFSaTJBaWdCTWdPSm9SQQ",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
+                    "date": "02/19/2025, 04:06 PM, +0000 UTC"
+                },
+                {
+                    "position": 2,
+                    "title": "iPhone 16e Review: Apple’s ‘Cheap’ Phone Isn’t So Cheap. But Is It a Bad Deal?",
+                    "source": {
+                        "name": "The Wall Street Journal",
+                        "icon": "https://lh3.googleusercontent.com/-Wo0rkJtT8uQ7BFow-YiRKzVlJNka-TbZM6_e2l3XQwNNqfPe1mR8Rc4_o_qAOJFb32YwQ4I1NM",
+                        "authors": [
+                            "Nicole Nguyen"
+                        ]
+                    },
+                    "link": "https://www.wsj.com/tech/personal-tech/apple-iphone-16e-review-0f466f60",
+                    "thumbnail": "https://images.wsj.net/im-06556838?width=700&height=466",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhNa3RFYmtOVlltWkhOa0ZwVFJERUF4aW5CU2dLTWdZdE5JaXVtUWc",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
+                    "date": "02/27/2025, 02:00 AM, +0000 UTC"
+                },
+                {
+                    "position": 3,
+                    "title": "Nvidia Earnings Beat Expectations",
+                    "source": {
+                        "name": "Cheddar",
+                        "icon": "https://lh3.googleusercontent.com/0qVyn7iYPzZ4kVqJdwiZ7f1ef2UcE2VfZvy23RTNd4-CSRkzq86en6LBYXvwYzv8mjJAxaO41Xc"
+                    },
+                    "link": "https://www.cheddar.com/media/nvidia-earnings-beat-expectations/",
+                    "thumbnail": "https://archetype-cheddartv-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F02-22-2025%2Ft_03ba1278c57b4b76a2c84994962eefe2_name_Airco2_Cheddar_scaled.jpg?auth=fcca989993027e0decaa4d17e37116aa25224fe88c873f80da258129a69ff8a7&width=1920&height=1080",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFTMkY1U0RSTE1GUmZNMGM0VFJDZkF4ampCU2dLTWdNQllCSQ",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
+                    "date": "02/27/2025, 01:19 AM, +0000 UTC"
+                }
+            ],
+            "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ"
+        }
+    ],
+    "menu_links": [
+        {
+            "title": "U.S.",
+            "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+        },
+        {
+            "title": "World",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Your local news",
+            "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+        },
+        {
+            "title": "Business",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Technology",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Entertainment",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Sports",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Science",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Health",
+            "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+        }
+    ],
+    "sub_menu_links": [
+        {
+            "title": "Latest",
+            "section_token": "CAQqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAQ",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&section_token=CAQqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAQ&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Mobile",
+            "section_token": "CAQiYkNCQVNRd29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURVd2F6Z3FId29kQ2hsTlQwSkpURVZmVUVoUFRrVmZVMFZEVkVsUFRsOU9RVTFGSUFFb0FBKioIAComCAoiIENCQVNFZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeWdBUAFQAQ",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&section_token=CAQiYkNCQVNRd29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURVd2F6Z3FId29kQ2hsTlQwSkpURVZmVUVoUFRrVmZVMFZEVkVsUFRsOU9RVTFGSUFFb0FBKioIAComCAoiIENCQVNFZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeWdBUAFQAQ&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Gadgets",
+            "section_token": "CAQiW0NCQVNQZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlQQ0FRYUN3b0pMMjB2TURKdFpqRnVLaGtLRndvVFIwRkVSMFZVWDFORlExUkpUMDVmVGtGTlJTQUJLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&section_token=CAQiW0NCQVNQZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlQQ0FRYUN3b0pMMjB2TURKdFpqRnVLaGtLRndvVFIwRkVSMFZVWDFORlExUkpUMDVmVGtGTlJTQUJLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Internet",
+            "section_token": "CAQiRkNCQVNMZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TUROeWJIUXFDaElJTDIwdk1ETnliSFFvQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&section_token=CAQiRkNCQVNMZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TUROeWJIUXFDaElJTDIwdk1ETnliSFFvQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Virtual reality",
+            "section_token": "CAQiRkNCQVNMZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURkZmJua3FDaElJTDIwdk1EZGZibmtvQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&section_token=CAQiRkNCQVNMZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURkZmJua3FDaElJTDIwdk1EZGZibmtvQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Artificial intelligence",
+            "section_token": "CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&section_token=CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Computing",
+            "section_token": "CAQiRkNCQVNMZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURGc2NITXFDaElJTDIwdk1ERnNjSE1vQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&section_token=CAQiRkNCQVNMZ29JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURGc2NITXFDaElJTDIwdk1ERnNjSE1vQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+        }
+    ]
+}

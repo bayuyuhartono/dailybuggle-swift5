@@ -38,9 +38,9 @@ struct MainView: View {
             }
             .frame(height: 60)
             .cornerRadius(40)
-            .padding(.horizontal, 32)
+            .padding(.horizontal, 8)
         }
-        .padding(.bottom, 16)
+        .padding(.vertical, 16)
         .ignoresSafeArea()
     }
 }
@@ -52,13 +52,11 @@ extension MainView{
             Image(systemName: imageName)
                 .resizable()
                 .renderingMode(.template)
-                .foregroundColor(isActive ? .uiSmoke : .uiGrey)
+                .foregroundColor(isActive ? .white : .uiGrey)
                 .frame(width: 20, height: 20)
-            if isActive{
-                Text(title)
-                    .font(.system(size: 14))
-                    .foregroundColor(isActive ? .white : .uiGrey)
-            }
+            Text(title)
+                .font(.system(size: 14))
+                .foregroundColor(isActive ? .white : .uiGrey)
             Spacer()
         }
         .frame(width: isActive ? 170 : 60, height: 50)

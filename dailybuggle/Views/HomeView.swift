@@ -8,14 +8,28 @@
 import SwiftUI
 
 struct HomeView: View {
+    let homeVm = HomeViewModel()
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world! Home")
+        NavigationStack {
+            VStack {
+                TopicList(topicListData: homeVm.sampleNews.menuLinks)
+                Spacer(minLength: 16)
+                NewsList(newsListData: homeVm.sampleNews.newsResults)
+            }
+            .padding(.top, 16)
+            .toolbar {
+                ToolbarItem(placement: .navigationBarLeading) {
+                    Text("Daily Buggle")
+                        .font(.title)
+                        .foregroundStyle(.uiBlack)
+                        .fontWeight(.bold)
+                        .padding(8)
+                }
+            }
+            .background(.white)
+            .padding(.horizontal, 16)
         }
-        .padding()
     }
 }
 

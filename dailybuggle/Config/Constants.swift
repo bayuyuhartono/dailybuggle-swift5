@@ -17,7 +17,7 @@ enum TabbedItems: Int, CaseIterable{
         case .home:
             return "Home"
         case .bookmark:
-            return "Search"
+            return "Discover"
         case .profile:
             return "Profile"
         }
@@ -26,9 +26,9 @@ enum TabbedItems: Int, CaseIterable{
     var iconName: String{
         switch self {
         case .home:
-            return "movieclapper"
+            return "newspaper"
         case .bookmark:
-            return "magnifyingglass.circle"
+            return "globe.americas.fill"
         case .profile:
             return "person.circle"
         }
