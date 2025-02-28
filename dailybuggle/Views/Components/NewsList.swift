@@ -12,8 +12,12 @@ struct NewsList: View {
     
     var body: some View {
         ScrollView {
-            ForEach(newsListData) { list in
-                NewsItem(item: list)
+            ForEach(0..<newsListData.count, id: \.self) { index in
+                if index == 0 {
+                    NewsItemCover(item: newsListData[index])
+                } else {
+                    NewsItem(item: newsListData[index])
+                }
             }
         }
     }

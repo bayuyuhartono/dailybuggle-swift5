@@ -12,7 +12,7 @@ struct NewsItem: View {
     
     var body: some View {
         HStack {
-            AsyncImage(url: URL(string: item.highlight!.thumbnail)) { image in
+            AsyncImage(url: URL(string: item.highlight?.thumbnail ?? "")) { image in
                 image
                     .resizable()
                     .scaledToFill()

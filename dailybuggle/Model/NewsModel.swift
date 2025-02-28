@@ -76,8 +76,8 @@ struct Highlight: Decodable {
     let title: String
     let source: Source
     let link: String
-    let thumbnail: String
-    let thumbnailSmall: String
+    let thumbnail: String?
+    let thumbnailSmall: String?
     let date: String
 
     enum CodingKeys: String, CodingKey {

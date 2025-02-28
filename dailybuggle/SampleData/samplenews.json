@@ -20,18 +20,157 @@
         {
             "position": 1,
             "highlight": {
-                "title": "Amazon’s AI-powered Alexa Plus to cost non-Prime users $20 a month",
+                "title": "Microsoft is shutting down Skype in favor of Teams",
                 "source": {
-                    "name": "The Washington Post",
-                    "icon": "https://lh3.googleusercontent.com/o6yPxQMQu9ofTcfOYO51BWEv7jK44QjB14DqTK_cl1N3LsWVEF3GUHd1byHOQ3n8L6ySZluEhZQ",
+                    "name": "The Verge",
+                    "icon": "https://lh3.googleusercontent.com/vkRH5gyHtLcKAoRSFHK1ATEgKtHDXoi9iRKKOdVhOng8g7qF2_QCVT1f11q_y_4y95_PY5VzWQ",
                     "authors": [
-                        "Caroline O'donovan"
+                        "Tom Warren"
                     ]
                 },
-                "link": "https://www.washingtonpost.com/technology/2025/02/26/alexa-ai-amazon/",
-                "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZILIMVUCBU55KMPPRQKTMSK2Y.JPG&w=1200",
-                "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdWbU5UUVZZeVRYSXlaRVYyVFJERUF4aW1CU2dLTWdhZE1aeEpsZ28",
-                "date": "02/27/2025, 02:29 AM, +0000 UTC"
+                "link": "https://www.theverge.com/news/621353/microsoft-skype-shutting-down-retirement-may-2025",
+                "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Hero_Skype-to-Teams_Landscape.png?quality=90&strip=all&crop=7.471617060448%2C0%2C85.056765879104%2C100&w=2400",
+                "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBaSFpmUkZVdGJVVlRXa0pXVFJERUF4aW1CU2dLTWdZUm9wSXBPUWM",
+                "date": "02/28/2025, 02:00 PM, +0000 UTC"
+            },
+            "stories": [
+                {
+                    "position": 1,
+                    "title": "Skype is shutting down after two decades",
+                    "source": {
+                        "name": "CNN",
+                        "icon": "https://lh3.googleusercontent.com/8zdvTbISHUn-4iHkauW-_yQSGPD9BMrx9EWfqTIhiVm2YMYqhHC1HJWNDQoSOkMk0MRPYKxjIg",
+                        "authors": [
+                            "Jordan Valinsky"
+                        ]
+                    },
+                    "link": "https://www.cnn.com/2025/02/28/tech/skype-microsoft-shutdown/index.html",
+                    "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-14491954b.jpg?c=16x9&q=h_833,w_1480,c_fill",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhOVXBtVTI1R05WbzBSR3BKVFJDZkF4amlCU2dLTWdZbEJZYk56UU0",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpbXJ5dkRSR3hrR0pFWURQZGFTZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpbXJ5dkRSR3hrR0pFWURQZGFTZ0FQAQ",
+                    "date": "02/28/2025, 03:14 PM, +0000 UTC"
+                },
+                {
+                    "position": 2,
+                    "title": "The next chapter: Moving from Skype to Microsoft Teams",
+                    "source": {
+                        "name": "Microsoft",
+                        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.microsoft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                        "authors": [
+                            "Jeff Teper"
+                        ]
+                    },
+                    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/",
+                    "thumbnail": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2025/03/Hero_Skype-to-Teams_Landscape.webp",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpUbXhhWkVNd1pWVTVSbGRaVFJDaEF4amdCU2dLTWdZUm81Skt1UVk",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpbXJ5dkRSR3hrR0pFWURQZGFTZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpbXJ5dkRSR3hrR0pFWURQZGFTZ0FQAQ",
+                    "date": "02/28/2025, 02:00 PM, +0000 UTC"
+                },
+                {
+                    "position": 3,
+                    "title": "Microsoft is shutting down Skype after a 21-year run. Here's how it lost out to video call rivals",
+                    "source": {
+                        "name": "CNBC",
+                        "icon": "https://lh3.googleusercontent.com/x6yA8OWeMmbiC9XXY4qz7R-sjJwLGs7d04RUeu6hxzPJw2myDjIdJnhBxKzvik9DbC3_J3tm",
+                        "authors": [
+                            "Jordan Novet"
+                        ]
+                    },
+                    "link": "https://www.cnbc.com/2025/02/28/microsoft-is-retiring-skype-in-may-encouraging-people-to-adopt-teams.html",
+                    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108108891-1740724520235-gettyimages-113918778-64666358.jpeg?v=1740724581&w=1600&h=900",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXBibmx4YmtwdVYwcDFSMlV4VFJDZkF4ampCU2dLTWdB",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpbXJ5dkRSR3hrR0pFWURQZGFTZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpbXJ5dkRSR3hrR0pFWURQZGFTZ0FQAQ",
+                    "date": "02/28/2025, 02:00 PM, +0000 UTC"
+                }
+            ],
+            "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpbXJ5dkRSR3hrR0pFWURQZGFTZ0FQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpbXJ5dkRSR3hrR0pFWURQZGFTZ0FQAQ"
+        },
+        {
+            "position": 2,
+            "highlight": {
+                "title": "Apple Provides Reason for iPhone 16e's Lack of MagSafe",
+                "source": {
+                    "name": "MacRumors",
+                    "icon": "https://lh3.googleusercontent.com/3SBMAEqsqmKgiDfi4ZLKs_-e-bKbdb5T-EPgbxAFN1kr6_qPClz_Nd2RP3ja9ZqITXLDV58QzQ",
+                    "authors": [
+                        "Tim Hardwick"
+                    ]
+                },
+                "link": "https://www.macrumors.com/2025/02/28/apple-provides-reason-iphone-16e-no-magsafe/",
+                "thumbnail": "https://images.macrumors.com/t/63s-4myZIMdILSYX-8B7gKsiC9s=/400x0/article-new/2025/02/iphone-16e-usb-c.jpg?lossy",
+                "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNabE4wZFZSV1VEUnZOM1ZxVFJEaEFSaVFBeWdLTWdhbEJKek5DUXM",
+                "date": "02/28/2025, 12:39 PM, +0000 UTC"
+            },
+            "stories": [
+                {
+                    "position": 1,
+                    "title": "On new Apple iPhone 16e, fingerprint security is gone, but the thumb still has a future in biometric tech",
+                    "source": {
+                        "name": "CNBC",
+                        "icon": "https://lh3.googleusercontent.com/x6yA8OWeMmbiC9XXY4qz7R-sjJwLGs7d04RUeu6hxzPJw2myDjIdJnhBxKzvik9DbC3_J3tm",
+                        "authors": [
+                            "Cheryl Winokur Munk"
+                        ]
+                    },
+                    "link": "https://www.cnbc.com/2025/02/28/on-iphone-16e-fingerprint-security-is-gone-but-the-thumb-will-be-back.html",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSRUx3UTVwVXRpQU95Z0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSRUx3UTVwVXRpQU95Z0FQAQ",
+                    "date": "02/28/2025, 03:03 PM, +0000 UTC"
+                },
+                {
+                    "position": 2,
+                    "title": "iPhone 16e",
+                    "source": {
+                        "name": "Apple Newsroom",
+                        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                    },
+                    "link": "https://www.apple.com/iphone-16e/",
+                    "thumbnail": "https://www.apple.com/v/iphone-16e/b/images/meta/iphone-16e_overview__ge2mx72sr9aq_og.png?202502271945",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXdRMnhLWW0xVGNUUllSbkJ1VFJDakFSaTJBaWdCTWdPSm9SQQ",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSRUx3UTVwVXRpQU95Z0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSRUx3UTVwVXRpQU95Z0FQAQ",
+                    "date": "02/19/2025, 04:06 PM, +0000 UTC"
+                },
+                {
+                    "position": 3,
+                    "title": "iPhone 16e Review: Apple’s ‘Cheap’ Phone Isn’t So Cheap. But Is It a Bad Deal?",
+                    "source": {
+                        "name": "The Wall Street Journal",
+                        "icon": "https://lh3.googleusercontent.com/-Wo0rkJtT8uQ7BFow-YiRKzVlJNka-TbZM6_e2l3XQwNNqfPe1mR8Rc4_o_qAOJFb32YwQ4I1NM",
+                        "authors": [
+                            "Nicole Nguyen"
+                        ]
+                    },
+                    "link": "https://www.wsj.com/tech/personal-tech/apple-iphone-16e-review-0f466f60",
+                    "thumbnail": "https://images.wsj.net/im-06556838?width=700&height=466",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhNa3RFYmtOVlltWkhOa0ZwVFJERUF4aW5CU2dLTWdZdE5JaXVtUWc",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSRUx3UTVwVXRpQU95Z0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSRUx3UTVwVXRpQU95Z0FQAQ",
+                    "date": "02/27/2025, 02:00 AM, +0000 UTC"
+                }
+            ],
+            "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSRUx3UTVwVXRpQU95Z0FQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSRUx3UTVwVXRpQU95Z0FQAQ"
+        },
+        {
+            "position": 3,
+            "highlight": {
+                "title": "Amazon CEO says ‘beautiful’ new Alexa hardware is coming this fall",
+                "source": {
+                    "name": "The Verge",
+                    "icon": "https://lh3.googleusercontent.com/vkRH5gyHtLcKAoRSFHK1ATEgKtHDXoi9iRKKOdVhOng8g7qF2_QCVT1f11q_y_4y95_PY5VzWQ",
+                    "authors": [
+                        "Emma Roth"
+                    ]
+                },
+                "link": "https://www.theverge.com/news/621236/amazon-andy-jassy-beautiful-alexa-hardware",
+                "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSCF4656.jpg?quality=90&strip=all&crop=0,0,100,100",
+                "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZRVnBmYlZSYWJUQm1Na3BDVFJERUF4aW1CU2dLTWdZNVJJQlJIUWs",
+                "date": "02/27/2025, 09:56 PM, +0000 UTC"
             },
             "stories": [
                 {
@@ -47,113 +186,180 @@
                     "link": "https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence",
                     "thumbnail": "https://assets.aboutamazon.com/99/97/449a770b40e9b852c1e558dba0f5/alexa-logo-1600x900-1.jpg",
                     "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZia1JNTmpKb04wMTFNV1ZFVFJDb0FSaXNBaWdCTWdZcHBaS050UVk",
-                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSRWMzUjRCbEdsMnFDZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSRWMzUjRCbEdsMnFDZ0FQAQ",
                     "date": "02/26/2025, 04:49 PM, +0000 UTC"
                 },
                 {
                     "position": 2,
-                    "title": "Alexa Plus Will Roll Out To These Four Amazon Echo Devices First",
+                    "title": "$20 a month for an AI chatbot? In this economy??",
                     "source": {
-                        "name": "Forbes",
-                        "icon": "https://lh3.googleusercontent.com/NIjzR9QHtZJllEvJIVkODXFQ7_rbx1BMBXx2rNUbttjuu9YWLIp2_juQaI9jJ2rDtzi6snbZ",
+                        "name": "Engadget",
+                        "icon": "https://lh3.googleusercontent.com/w1hw-XN8YegN8sGKZCmPe7kI0pLiUti33nZ-iKgN0SIOp0KGL_lwI6vgitklgkgrI1yBw28R8A",
                         "authors": [
-                            "Prakhar Khanna"
+                            "Nathan Ingraham"
                         ]
                     },
-                    "link": "https://www.forbes.com/sites/prakharkhanna/2025/02/26/alexa-plus-will-roll-out-to-these-four-amazon-echo-devices-first/",
-                    "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/67bf8ed116802fd2c1a5f1d8/Amazon-Alexa-Plus-announcement-stage-/960x0.jpg?format=jpg&width=960",
-                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtaVnAyTUVkaWNVUkVRbmczVFJDZkF4ampCU2dLTWdrbElJWXVHZWx6RkFF",
-                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
-                    "date": "02/26/2025, 10:04 PM, +0000 UTC"
+                    "link": "https://www.engadget.com/ai/20-a-month-for-an-ai-chatbot-in-this-economy-150021310.html",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSRWMzUjRCbEdsMnFDZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSRWMzUjRCbEdsMnFDZ0FQAQ",
+                    "date": "02/28/2025, 03:00 PM, +0000 UTC"
                 },
                 {
                     "position": 3,
-                    "title": "Meet Alexa Plus: Your Virtual Assistant Just Got an AI Update",
+                    "title": "Amazon unveils Alexa+, a smarter, more personalized assistant",
                     "source": {
-                        "name": "CNET",
-                        "icon": "https://lh3.googleusercontent.com/pnQtIpgtVqvRT94UjYLY1CmOffa5B0j04FK18Kr6MhRx05UsTs913O_c4FDbQy0Vw0l1BjyrBdA",
+                        "name": "Fox News",
+                        "icon": "https://lh3.googleusercontent.com/sI1WB0Q5duO4KjZqNG5iwyb-5Rt-WYpF7YJjAde847yk_-mOpMueyEcXZgjU5dIMJNdPwe2ICg",
                         "authors": [
-                            "Corin Cesaric"
+                            "Christopher Murray"
                         ]
                     },
-                    "link": "https://www.cnet.com/home/meet-alexa-plus-your-virtual-assistant-just-got-an-ai-update/",
-                    "thumbnail": "https://www.cnet.com/a/img/resize/8031f3cc503d0de608128724534e72fd0f0a2304/hub/2025/02/26/fc4a6f77-c175-42ee-8125-f1f2e53c88b0/screenshot-2025-02-26-at-2-37-17pm.png?auto=webp&fit=crop&height=675&width=1200",
-                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhUalpxVEhkSE16aFBNa2h4VFJDZkF4ampCU2dLTWdZZGNKYXRxQWM",
-                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
-                    "date": "02/26/2025, 04:26 PM, +0000 UTC"
+                    "link": "https://www.foxnews.com/deals/amazon-alexa-plus-launch",
+                    "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/1200/675/istock-1150572105.jpg?ve=1&tl=1",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlhM1JzV1ZOclVtMXFhVXBCVFJDZkF4ampCU2dLTWdhdE5aYk9uUWs",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSRWMzUjRCbEdsMnFDZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSRWMzUjRCbEdsMnFDZ0FQAQ",
+                    "date": "02/27/2025, 02:17 PM, +0000 UTC"
                 }
             ],
-            "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSSEd5M283Z0xILU5pZ0FQAQ"
+            "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSRWMzUjRCbEdsMnFDZ0FQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pTcjYyc0RSRWMzUjRCbEdsMnFDZ0FQAQ"
         },
         {
-            "position": 2,
+            "position": 4,
             "highlight": {
-                "title": "iPhone 16e's Battery Capacity Revealed in Real-World Battery Life Test",
+                "title": "The Galaxy S25 Edge just got some fresh competition in the super-thin phone department",
                 "source": {
-                    "name": "MacRumors",
-                    "icon": "https://lh3.googleusercontent.com/3SBMAEqsqmKgiDfi4ZLKs_-e-bKbdb5T-EPgbxAFN1kr6_qPClz_Nd2RP3ja9ZqITXLDV58QzQ",
+                    "name": "Android Authority",
+                    "icon": "https://lh3.googleusercontent.com/IW9sH2a2meCAZ7kFmYno_OWL3OZdcGBfCY0meUg4ct0oqB-1bUEe7Eq4fUUJjwY8-UIsH8DI",
                     "authors": [
-                        "Joe Rossignol"
+                        "Rushil Agrawal"
                     ]
                 },
-                "link": "https://www.macrumors.com/2025/02/26/iphone-16e-battery-capacity/",
-                "thumbnail": "https://images.macrumors.com/t/y5kt36RkjUlJ0X8r8nsJjIj7ngk=/400x0/article-new/2025/02/iPhone-16e-Battery.jpg?lossy",
-                "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXhiMlJ1ZDJsdVNuVklRbVJmVFJEaEFSaVFBeWdLTWdB",
-                "date": "02/27/2025, 03:12 AM, +0000 UTC"
+                "link": "https://www.androidauthority.com/tecno-spark-slim-announcement-3530631/",
+                "thumbnail": "https://www.androidauthority.com/wp-content/uploads/2025/02/SPARK-Slim-3.jpg",
+                "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFPVWsxY0ZWM1EzQkNTek5hVFJDZkF4ampCU2dLTWdhcG9aVFF0QVk",
+                "date": "02/28/2025, 09:31 AM, +0000 UTC"
             },
             "stories": [
                 {
                     "position": 1,
-                    "title": "iPhone 16e",
+                    "title": "Tecno Spark Slim concept features unbelievable 5.75mm profile - GSMArena.com news",
                     "source": {
-                        "name": "Apple Newsroom",
-                        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                        "name": "GSMArena.com",
+                        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gsmarena.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
                     },
-                    "link": "https://www.apple.com/iphone-16e/",
-                    "thumbnail": "https://www.apple.com/v/iphone-16e/a/images/meta/iphone-16e_overview__ge2mx72sr9aq_og.png?202502201939",
-                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXdRMnhLWW0xVGNUUllSbkJ1VFJDakFSaTJBaWdCTWdPSm9SQQ",
-                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
-                    "date": "02/19/2025, 04:06 PM, +0000 UTC"
+                    "link": "https://www.gsmarena.com/tecno_spark_slim_debuts_with_575_mm_profile-news-66718.php",
+                    "thumbnail": "https://fdn.gsmarena.com/imgroot/news/25/02/tecno-spark-slim-ofic/-1220x526/gsmarena_001.jpg",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdUVVpsWlZkU1lqTlVWSGt4VFJEckFoak1CaWdLTWdhaEU0d0xKZ2c",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6bWQydkRSSDl6NlF0bHpGLXN5Z0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6bWQydkRSSDl6NlF0bHpGLXN5Z0FQAQ",
+                    "date": "02/28/2025, 09:00 AM, +0000 UTC"
                 },
                 {
                     "position": 2,
-                    "title": "iPhone 16e Review: Apple’s ‘Cheap’ Phone Isn’t So Cheap. But Is It a Bad Deal?",
+                    "title": "World's thinnest phone is here, but it's not the iPhone 17 Air or Galaxy S25 Edge",
                     "source": {
-                        "name": "The Wall Street Journal",
-                        "icon": "https://lh3.googleusercontent.com/-Wo0rkJtT8uQ7BFow-YiRKzVlJNka-TbZM6_e2l3XQwNNqfPe1mR8Rc4_o_qAOJFb32YwQ4I1NM",
-                        "authors": [
-                            "Nicole Nguyen"
-                        ]
+                        "name": "Bundle",
+                        "icon": "https://lh3.googleusercontent.com/Vq0m42puHQQ06USB4tlo8QSJuKSYH5jQZBJiXocaJEsY5cO_qa7deL7MS3OYhWcyjERLUgqloTs"
                     },
-                    "link": "https://www.wsj.com/tech/personal-tech/apple-iphone-16e-review-0f466f60",
-                    "thumbnail": "https://images.wsj.net/im-06556838?width=700&height=466",
-                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhNa3RFYmtOVlltWkhOa0ZwVFJERUF4aW5CU2dLTWdZdE5JaXVtUWc",
-                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
-                    "date": "02/27/2025, 02:00 AM, +0000 UTC"
+                    "link": "https://www.bundle.app/en/technology/world's-thinnest-phone-is-here-but-it's-not-the-iphone-17-air-or-galaxy-s25-edge-474b7c17-fe7d-44eb-a6af-71877694b8c2",
+                    "thumbnail": "https://static.bundle.app/news/pc-695d9292aab5d843fa7094bdd5ac23bd.jpg",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpSRkIyUmsxaVlVZDBNRk5KVFJDakFSaTJBaWdCTWdZQk1KQWptZ28",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6bWQydkRSSDl6NlF0bHpGLXN5Z0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6bWQydkRSSDl6NlF0bHpGLXN5Z0FQAQ",
+                    "date": "02/28/2025, 09:46 AM, +0000 UTC"
                 },
                 {
                     "position": 3,
-                    "title": "Nvidia Earnings Beat Expectations",
+                    "title": "Tecno To Launch Industries Slimmest Phone: Things We Know So Far",
                     "source": {
-                        "name": "Cheddar",
-                        "icon": "https://lh3.googleusercontent.com/0qVyn7iYPzZ4kVqJdwiZ7f1ef2UcE2VfZvy23RTNd4-CSRkzq86en6LBYXvwYzv8mjJAxaO41Xc"
+                        "name": "Bizz Buzz",
+                        "icon": "https://lh3.googleusercontent.com/QMLz68RrLZw5pN0k50MywSYXDUxu9P0LeBMz7wnwdFZR3h1iTOYrX1Y4cHN56ghx6q_3AkhgXR0",
+                        "authors": [
+                            "Sanjana Mukhiya"
+                        ]
                     },
-                    "link": "https://www.cheddar.com/media/nvidia-earnings-beat-expectations/",
-                    "thumbnail": "https://archetype-cheddartv-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F02-22-2025%2Ft_03ba1278c57b4b76a2c84994962eefe2_name_Airco2_Cheddar_scaled.jpg?auth=fcca989993027e0decaa4d17e37116aa25224fe88c873f80da258129a69ff8a7&width=1920&height=1080",
-                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFTMkY1U0RSTE1GUmZNMGM0VFJDZkF4ampCU2dLTWdNQllCSQ",
-                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
-                    "date": "02/27/2025, 01:19 AM, +0000 UTC"
+                    "link": "https://www.bizzbuzz.news/technology/tecno-to-launch-industries-slimmest-phone-things-we-know-so-far-1353693",
+                    "thumbnail": "https://www.bizzbuzz.news/h-upload/2025/02/28/1956434-tecno-to-launch-industries-slimmest-phone.webp",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBaRFZtZEY5TlgxQXliMjVRVFJDZkF4ampCU2dLTWdZSllKSW5LZ2s",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6bWQydkRSSDl6NlF0bHpGLXN5Z0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6bWQydkRSSDl6NlF0bHpGLXN5Z0FQAQ",
+                    "date": "02/28/2025, 01:16 PM, +0000 UTC"
                 }
             ],
-            "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ",
-            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCbTQ2b0RSR3g4MUtRTXY4d2Z5Z0FQAQ"
+            "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6bWQydkRSSDl6NlF0bHpGLXN5Z0FQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l6bWQydkRSSDl6NlF0bHpGLXN5Z0FQAQ"
+        },
+        {
+            "position": 5,
+            "highlight": {
+                "title": "Oura's updated Readiness Score connects new dots in your health data",
+                "source": {
+                    "name": "ZDNet",
+                    "icon": "https://lh3.googleusercontent.com/t1D9YmnY4ufPlDMluhGNW16NLRgfLQHLdY7ZP7THbp4nOqIfdWtm25h9qfSOIHDJDbuQOtsO",
+                    "authors": [
+                        "Nina Raemont"
+                    ]
+                },
+                "link": "https://www.zdnet.com/article/ouras-updated-readiness-score-connects-some-new-dots-in-your-health-data/",
+                "thumbnail": "https://www.zdnet.com/a/img/resize/3aa4a3c66d4c246e1b95a55fbaef1f8b920c6d73/2025/02/28/c328d4ff-8aa1-42a8-8521-79ec16d27dda/oura.jpg?auto=webp&width=1280",
+                "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9SbHBKZFZsNVUwdEROWEJWVFJDZkF4ampCU2dLTWdZWllwQ3NyUVk",
+                "date": "02/28/2025, 03:22 PM, +0000 UTC"
+            },
+            "stories": [
+                {
+                    "position": 1,
+                    "title": "ŌURA Launches First-of-its-Kind Pregnancy Study and New Feature Enhancement in Support of Women’s Health",
+                    "source": {
+                        "name": "Business Wire",
+                        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                    },
+                    "link": "https://www.businesswire.com/news/home/20250227655820/en/%C5%8CURA-Launches-First-of-its-Kind-Pregnancy-Study-and-New-Feature-Enhancement-in-Support-of-Women%E2%80%99s-Health",
+                    "thumbnail": "https://mms.businesswire.com/media/20250227655820/en/2394710/23/Oura_Logo_Wordmark_Black_%2810%29.jpg",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRZa3cxU1RWTFpWaFhXRWRoVFJDaUFSaTNBaWdCTWdhaHBKS011UVk",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeS02dURSRlZRTHlJUzVSaWNTZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeS02dURSRlZRTHlJUzVSaWNTZ0FQAQ",
+                    "date": "02/27/2025, 02:00 PM, +0000 UTC"
+                },
+                {
+                    "position": 2,
+                    "title": "Oura has given women another great reason to wear its smart ring",
+                    "source": {
+                        "name": "Digital Trends",
+                        "icon": "https://lh3.googleusercontent.com/mYUsZilEC525EcY8mJ0oGdpmrRaC8rQyn-pbLRbEKEBP05cCEpJuDG2zaGku5gYxXO3iBxNPq0k",
+                        "authors": [
+                            "Andy Boxall"
+                        ]
+                    },
+                    "link": "https://www.digitaltrends.com/mobile/oura-has-given-women-another-great-reason-to-wear-its-smart-ring/",
+                    "thumbnail": "https://www.digitaltrends.com/wp-content/uploads/2024/11/oura-ring-4-fingers-side.jpg?resize=1000%2C600&p=1",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlUbXcwUTI5S2FFSnJSR2c0VFJDdEF4akxCU2dLTWdZQlpZenNQUVk",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeS02dURSRlZRTHlJUzVSaWNTZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeS02dURSRlZRTHlJUzVSaWNTZ0FQAQ",
+                    "date": "02/27/2025, 02:00 PM, +0000 UTC"
+                },
+                {
+                    "position": 3,
+                    "title": "Oura ring to read menstrual cycle changes to help women tailor their health habits",
+                    "source": {
+                        "name": "Android Central",
+                        "icon": "https://lh3.googleusercontent.com/KtYvCHvA5r-MBpWoUv-21vyMbGt2Q9B1id3kCjrLy7P2Xx_QP5vkJOTt59Hxsvh0ISfcJex8--g",
+                        "authors": [
+                            "Jay Bonggolto"
+                        ]
+                    },
+                    "link": "https://www.androidcentral.com/wearables/ouras-new-feature-keeps-tabs-on-how-womens-body-shifts-during-their-cycle",
+                    "thumbnail": "https://cdn.mos.cms.futurecdn.net/ukXtzTrmgboYMwWzjeSUaC-1200-80.jpg",
+                    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNhSEJDVEhJNFIyNTJOek42VFJDZkF4ampCU2dLTWdZaHBKRE9QUWM",
+                    "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeS02dURSRlZRTHlJUzVSaWNTZ0FQAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeS02dURSRlZRTHlJUzVSaWNTZ0FQAQ",
+                    "date": "02/27/2025, 02:00 PM, +0000 UTC"
+                }
+            ],
+            "story_token": "CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeS02dURSRlZRTHlJUzVSaWNTZ0FQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=us&story_token=CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pPeS02dURSRlZRTHlJUzVSaWNTZ0FQAQ"
         }
     ],
     "menu_links": [
