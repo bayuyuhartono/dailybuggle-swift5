@@ -42,5 +42,30 @@ struct FetchService {
         
         return news
     }
+    
+    func fetchSearchNews(keyword: String?) async throws -> NewsModel {
+        let newsURL = baseURL.appending(path: "/search")
+            .appending(queryItems: [URLQueryItem(name: "engine", value: "google_news")])
+            .appending(queryItems: [URLQueryItem(name: "gl", value: "us")])
+            .appending(queryItems: [URLQueryItem(name: "hl", value: "en")])
+            .appending(queryItems: [URLQueryItem(name: "api_key", value: token)])
+            .appending(queryItems: [URLQueryItem(name: "q", value: keyword)])
+        
+        var request = URLRequest(url: newsURL)
+        request.httpMethod = "GET"
+        
+        let (data, response) = try await URLSession.shared.data(for: request)
+                
+        guard let response = response as? HTTPURLResponse, response.statusCode == 200 else {
+            throw FetchError.badResponse
+        }
+        
+        let decoder = JSONDecoder()
+        decoder.keyDecodingStrategy = .convertFromSnakeCase
+        
+        let news = try decoder.decode(NewsModel.self, from: data)
+        
+        return news
+    }
 
 }

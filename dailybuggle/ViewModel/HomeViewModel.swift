@@ -42,7 +42,7 @@ class HomeViewModel {
     }
     
     func pickTopic(_ topic: String) async {
-        topicPicked = topic
+        topicPicked = topic != topicPicked ? topic : nil
         await getNewsData()
     }
 
