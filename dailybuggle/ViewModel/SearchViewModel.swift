@@ -1,5 +1,5 @@
 //
-//  DiscoverViewModel.swift
+//  SearchViewModel.swift
 //  dailybuggle
 //
 //  Created by Bayu Yuhartono on 02/03/25.
@@ -8,18 +8,18 @@
 import Foundation
 
 @Observable
-class DiscoverViewModel {
+class SearchViewModel {
     private(set) var status: FetchStatus = .notStarted
     
     private let fetcher = FetchService()
     
-    var discoverNews: [NewsResult] = []
+    var searchNews: [NewsResult] = []
     
-    func getDiscoverData(for keyword: String) async {
+    func getSearchData(for keyword: String) async {
         status = .fetching
         
         do {
-            discoverNews = try await fetcher.fetchSearchNews(keyword: keyword).newsResults
+            searchNews = try await fetcher.fetchSearchNews(keyword: keyword).newsResults
             status = .successSearch
         } catch {
             print(error)

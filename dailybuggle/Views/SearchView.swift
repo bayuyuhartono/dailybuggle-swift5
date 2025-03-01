@@ -1,5 +1,5 @@
 //
-//  DiscoverView.swift
+//  SearchView.swift
 //  dailybuggle
 //
 //  Created by Bayu Yuhartono on 02/03/25.
@@ -7,23 +7,23 @@
 
 import SwiftUI
 
-struct DiscoverView: View {
-    @State var discoverText = ""
+struct SearchView: View {
+    @State var searchText = ""
 
-    let discoverVm = DiscoverViewModel()
+    let searchVm = SearchViewModel()
     
     let debouncer = Debouncer(delay: 0.5)
     
     func search(query: String) async {
-        await discoverVm.getDiscoverData(for: query)
+        await searchVm.getSearchData(for: query)
     }
 
     var body: some View {
         NavigationStack {
             ScrollView(.vertical, showsIndicators: false) {
-                if discoverVm.discoverNews.count > 0 {
+                if searchVm.searchNews.count > 0 {
                     VStack {
-                        ForEach(discoverVm.discoverNews) { item in
+                        ForEach(searchVm.searchNews) { item in
                             NewsItem(item: item)
                         }
                     }
@@ -36,8 +36,8 @@ struct DiscoverView: View {
             .padding(16)
         }
         .ignoresSafeArea()
-        .searchable(text: $discoverText)
-        .onChange(of: discoverText) { oldValue, newValue in
+        .searchable(text: $searchText)
+        .onChange(of: searchText) { oldValue, newValue in
             debouncer.debounce {
                 Task{
                     await search(query: newValue)
@@ -48,5 +48,5 @@ struct DiscoverView: View {
 }
 
 #Preview {
-    DiscoverView()
+    SearchView()
 }
