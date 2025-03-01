@@ -13,9 +13,17 @@ struct HomeView: View {
     var body: some View {
         NavigationStack {
             VStack {
-                TopicList(topicListData: homeVm.sampleNews.menuLinks)
+                TopicList(
+                    topicListData: homeVm.topicData,
+                    topickPicked: homeVm.topicPicked,
+                    onClick: { topic in
+                        Task {
+                            await homeVm.pickTopic(topic)
+                        }
+                    }
+                )
                 Spacer(minLength: 16)
-                NewsList(newsListData: homeVm.sampleNews.newsResults)
+                NewsList(newsListData: homeVm.newsData)
             }
             .padding(.top, 16)
             .toolbar {
@@ -29,6 +37,9 @@ struct HomeView: View {
             }
             .background(.white)
             .padding(.horizontal, 16)
+        }
+        .task {
+            await homeVm.getNewsData()
         }
     }
 }

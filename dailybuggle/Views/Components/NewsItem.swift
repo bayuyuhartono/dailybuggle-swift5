@@ -12,21 +12,22 @@ struct NewsItem: View {
     
     var body: some View {
         HStack {
-            AsyncImage(url: URL(string: item.highlight?.thumbnail ?? "")) { image in
+            AsyncImage(url: URL(string: (item.highlight?.thumbnail ?? item.thumbnail) ?? "")) { image in
                 image
                     .resizable()
                     .scaledToFill()
-                    .frame(width: 80, height: 80)
-                    .clipped()
-                    .cornerRadius(8)
             } placeholder: {
                 ProgressView()
             }
+            .frame(width: 80, height: 80)
+            .clipped()
+            .cornerRadius(8)
+            
             VStack(alignment: .leading, spacing: 4) {
-                Text(item.highlight!.title)
+                Text(item.highlight?.title ?? item.title ?? "")
                     .font(.headline)
                     .lineLimit(2)
-                Text((item.highlight?.source.name)!)
+                Text(item.highlight?.source?.name ?? item.source?.name ?? "")
                     .font(.subheadline)
                     .lineLimit(1)
             }

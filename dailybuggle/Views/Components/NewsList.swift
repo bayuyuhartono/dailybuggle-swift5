@@ -15,6 +15,7 @@ struct NewsList: View {
             ForEach(0..<newsListData.count, id: \.self) { index in
                 if index == 0 {
                     NewsItemCover(item: newsListData[index])
+                    Spacer(minLength: 16)
                 } else {
                     NewsItem(item: newsListData[index])
                 }

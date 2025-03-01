@@ -10,6 +10,7 @@ import SwiftUI
 struct TopicItem: View {
     let item: MenuLink
     let isActive: Bool
+    let onClick: (_ topic: String) -> Void
     
     var body: some View {
         HStack() {
@@ -22,9 +23,12 @@ struct TopicItem: View {
         .background(isActive ? .uiBlack : .uiSmoke)
         .cornerRadius(15)
         .padding([.leading, .top], 4)
+        .onTapGesture {
+            onClick(item.topicToken)
+        }
     }
 }
 
 #Preview {
-    TopicItem(item: HomeViewModel().sampleNews.menuLinks[0], isActive: false)
+    TopicItem(item: HomeViewModel().sampleNews.menuLinks[0], isActive: false, onClick: { topic in  })
 }

@@ -11,9 +11,10 @@ import Foundation
 struct NewsModel: Decodable {
     let searchMetadata: SearchMetadata
     let searchParameters: SearchParameters
-    let title: String
+    let title: String?
     let newsResults: [NewsResult]
-    let menuLinks, subMenuLinks: [MenuLink]
+    let menuLinks: [MenuLink]
+    let subMenuLinks: [MenuLink]?
 
     enum CodingKeys: String, CodingKey {
         case searchMetadata
@@ -74,7 +75,7 @@ struct NewsResult: Decodable, Identifiable {
 // MARK: - Highlight
 struct Highlight: Decodable {
     let title: String
-    let source: Source
+    let source: Source?
     let link: String
     let thumbnail: String?
     let thumbnailSmall: String?
@@ -138,7 +139,8 @@ struct SearchMetadata: Decodable {
 
 // MARK: - SearchParameters
 struct SearchParameters: Decodable {
-    let engine, gl, hl, topicToken: String
+    let engine, gl, hl: String
+    let topicToken: String?
 
     enum CodingKeys: String, CodingKey {
         case engine, gl, hl

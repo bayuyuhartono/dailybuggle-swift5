@@ -9,12 +9,14 @@ import SwiftUI
 
 struct TopicList: View {
     let topicListData: [MenuLink]
-    
+    let topickPicked: String?
+    let onClick: (_ topic: String) -> Void
+
     var body: some View {
         ScrollView(.horizontal, showsIndicators: false) {
             HStack(spacing: 4) {
-                ForEach(topicListData) { list in
-                    TopicItem(item: list, isActive: false)
+                ForEach(topicListData) { item in
+                    TopicItem(item: item, isActive: topickPicked == item.topicToken, onClick: onClick)
                 }
             }
         }
@@ -22,5 +24,9 @@ struct TopicList: View {
 }
 
 #Preview {
-    TopicList(topicListData: HomeViewModel().sampleNews.menuLinks)
+    TopicList(
+        topicListData: HomeViewModel().sampleNews.menuLinks,
+        topickPicked: "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+        onClick: {topic in}
+    )
 }
