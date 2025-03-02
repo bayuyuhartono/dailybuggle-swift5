@@ -27,6 +27,8 @@ struct SearchView: View {
                             NewsItem(item: item)
                         }
                     }
+                    .redacted(reason: searchVm.isLoading ? .placeholder : [])
+
                 } else {
                     Text("Please enter your search text")
                         .foregroundStyle(.uiGrey)

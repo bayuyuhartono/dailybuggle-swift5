@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		2E8519852D746A58007FBAF5 /* SkeletonView in Frameworks */ = {isa = PBXBuildFile; productRef = 2E8519842D746A58007FBAF5 /* SkeletonView */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		2E3B4BF02D6F678100F92481 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -52,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E8519852D746A58007FBAF5 /* SkeletonView in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -112,6 +117,7 @@
 			);
 			name = dailybuggle;
 			packageProductDependencies = (
+				2E8519842D746A58007FBAF5 /* SkeletonView */,
 			);
 			productName = dailybuggle;
 			productReference = 2E3B4BDF2D6F678000F92481 /* dailybuggle.app */;
@@ -195,6 +201,9 @@
 			);
 			mainGroup = 2E3B4BD62D6F678000F92481;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				2E8519832D7469E7007FBAF5 /* XCRemoteSwiftPackageReference "SkeletonView" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 2E3B4BE02D6F678000F92481 /* Products */;
 			projectDirPath = "";
@@ -558,6 +567,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		2E8519832D7469E7007FBAF5 /* XCRemoteSwiftPackageReference "SkeletonView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Juanpe/SkeletonView.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.31.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		2E8519842D746A58007FBAF5 /* SkeletonView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 2E8519832D7469E7007FBAF5 /* XCRemoteSwiftPackageReference "SkeletonView" */;
+			productName = SkeletonView;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 2E3B4BD72D6F678000F92481 /* Project object */;
 }

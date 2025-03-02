@@ -17,6 +17,7 @@ class HomeViewModel {
     var newsData: [NewsResult] = []
     var topicData: [MenuLink] = []
     var topicPicked: String?
+    var isLoading: Bool = false
     
     init() {
         let decoder = JSONDecoder()
@@ -28,6 +29,7 @@ class HomeViewModel {
     
     func getNewsData() async {
         status = .fetching
+        isLoading = true
         
         do {
             let fetchData = try await fetcher.fetchNews(topic: topicPicked)
@@ -35,9 +37,11 @@ class HomeViewModel {
             topicData = fetchData.menuLinks
             
             status = .successPopular
+            isLoading = false
         } catch {
             print(error)
             status = .failed(error: error)
+            isLoading = false
         }
     }
     

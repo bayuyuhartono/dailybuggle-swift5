@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import SkeletonView
 
 struct HomeView: View {
     let homeVm = HomeViewModel()
@@ -22,8 +23,12 @@ struct HomeView: View {
                         }
                     }
                 )
+                .padding(.bottom,16)
+                
                 Spacer(minLength: 16)
+                
                 NewsList(newsListData: homeVm.newsData)
+                    .redacted(reason: homeVm.isLoading ? .placeholder : [])
             }
             .padding(.top, 16)
             .toolbar {
